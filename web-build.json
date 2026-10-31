@@ -1,0 +1,26 @@
+{
+ "version": "2.8.0",
+ "build": "44778a8d3327",
+ "files": 22861,
+ "bytes": 587195013,
+ "clips": 22823,
+ "shell": [
+  "index.html",
+  "manifest.webmanifest",
+  "fonts/fonts.css",
+  "icons/icon-192.png",
+  "icons/icon-512.png",
+  "data/exam.json",
+  "data/expr.json",
+  "data/grammar.json",
+  "data/grammar_basic.json",
+  "data/kanji.json",
+  "data/mock.json",
+  "data/test.json",
+  "data/vocab.json",
+  "data/vocab_basic.json",
+  "data/vocab_n1.json"
+ ],
+ "contactEmail": false,
+ "appSha256": "4e219b897de2076353af028431784dfe8f350ec0f193d8d7c3d3e4272aa34b7f"
+}

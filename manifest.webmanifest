@@ -1,0 +1,16 @@
+{
+  "name": "JLPT 무스비",
+  "short_name": "무스비",
+  "description": "N5~N1을 함께 공부하는 개인용 일본어 학습 앱",
+  "lang": "ko",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#344578",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

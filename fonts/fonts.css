@@ -1,0 +1,90 @@
+/* Official Google Fonts files, bundled unmodified for offline use.
+ * Sources, checksums, and exact OFL licenses: SOURCE-MANIFEST.json and licenses/. */
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./IBMPlexMono-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./IBMPlexSansJP-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans JP';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./IBMPlexSansJP-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans JP';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./IBMPlexSansJP-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans JP';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./IBMPlexSansJP-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./IBMPlexSansKR-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans KR';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./IBMPlexSansKR-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans KR';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./IBMPlexSansKR-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans KR';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./IBMPlexSansKR-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Klee One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./KleeOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Klee One';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./KleeOne-SemiBold.ttf') format('truetype');
+}
