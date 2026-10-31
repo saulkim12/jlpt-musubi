@@ -1,9 +1,9 @@
 {
- "version": "2.8.0",
- "build": "44778a8d3327",
- "files": 22861,
- "bytes": 587195013,
- "clips": 22823,
+ "version": "2.9.0",
+ "build": "d685dfe4befe",
+ "files": 22876,
+ "bytes": 776326454,
+ "clips": 22838,
  "shell": [
   "index.html",
   "manifest.webmanifest",
@@ -22,5 +22,5 @@
   "data/vocab_n1.json"
  ],
  "contactEmail": false,
- "appSha256": "4e219b897de2076353af028431784dfe8f350ec0f193d8d7c3d3e4272aa34b7f"
+ "appSha256": "e08c95d965c8da8785ad357d885f83dd29e1acc21d6a8e5625fc26e34aa13f26"
 }

@@ -1,0 +1,17 @@
+JLPT 무스비의 음성은 VOICEVOX로 생성했습니다. / この音声は VOICEVOX で生成しています。
+
+VOICEVOX:冥鳴ひまり
+VOICEVOX:小夜/SAYO
+VOICEVOX:雀松朱司
+VOICEVOX:剣崎雌雄
+
+이 음성 파일을 다른 곳에 쓰려면 위 크레딧을 그대로 표기하고 아래 약관을 따라야 합니다.
+この音声ファイルを他で利用する場合は、上記のクレジットを表記し、以下の規約に従ってください。
+
+VOICEVOX: https://voicevox.hiroshiba.jp/term/
+冥鳴ひまり: https://www.meimeihimari.com/terms-of-use
+小夜/SAYO: https://316soramegu.wixsite.com/sayo-official/guideline
+雀松朱司: https://www.virvoxproject.com/voicevoxの利用規約
+剣崎雌雄: https://frontier.creatia.cc/fanclubs/413/posts/4507
+
+읽기와 악센트는 pyopenjtalk-plus(MIT)로 정했고, MP3는 lameenc(LGPL-3.0)로 만들었습니다.

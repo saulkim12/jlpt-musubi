@@ -1,14 +1,36 @@
 {
-  "voice": {
-    "name": "HTS Voice Mei (normal)",
-    "authors": "MMDAgent Project Team / Nagoya Institute of Technology",
-    "license": "CC BY 3.0",
-    "licenseFile": "licenses/Mei-CC-BY-3.0.txt",
-    "sourceRepository": "https://github.com/tsukumijima/pyopenjtalk-plus",
-    "distributedInPinnedWheel": "pyopenjtalk_plus-0.4.1.post10-cp312-cp312-win_amd64.whl",
-    "bytes": 862503,
-    "sha256": "f3be49a6838904a6c218790b64e07c3e83c1886e995dca284b413caab19184de"
+  "engine": {
+    "name": "VOICEVOX ENGINE",
+    "version": "0.26.0",
+    "publisher": "https://github.com/VOICEVOX/voicevox_engine/releases/tag/0.26.0",
+    "asset": "voicevox_engine-windows-directml-0.26.0.7z.001",
+    "bytes": 1842494474,
+    "sha256": "6e179aeaec82e82d7292311ea33beb2770afa6ebe4b90bc0c034572b05ce05c7",
+    "terms": "https://voicevox.hiroshiba.jp/term/"
   },
+  "voices": [
+    {
+      "credit": "VOICEVOX:冥鳴ひまり",
+      "role": "N, F2",
+      "terms": "https://www.meimeihimari.com/terms-of-use"
+    },
+    {
+      "credit": "VOICEVOX:小夜/SAYO",
+      "role": "F",
+      "terms": "https://316soramegu.wixsite.com/sayo-official/guideline"
+    },
+    {
+      "credit": "VOICEVOX:雀松朱司",
+      "role": "M",
+      "terms": "https://www.virvoxproject.com/voicevoxの利用規約"
+    },
+    {
+      "credit": "VOICEVOX:剣崎雌雄",
+      "role": "M2",
+      "terms": "https://frontier.creatia.cc/fanclubs/413/posts/4507"
+    }
+  ],
+  "creditFile": "licenses/VOICEVOX-credits.txt",
   "buildTimeOnlySoftware": [
     {
       "package": "pyopenjtalk-plus",

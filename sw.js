@@ -1,7 +1,7 @@
-// JLPT 무스비 웹 버전 서비스 워커(2.8.0). tools/build_web.py가 44778a8d3327와 ["index.html", "manifest.webmanifest", "fonts/fonts.css", "icons/icon-192.png", "icons/icon-512.png", "data/exam.json", "data/expr.json", "data/grammar.json", "data/grammar_basic.json", "data/kanji.json", "data/mock.json", "data/test.json", "data/vocab.json", "data/vocab_basic.json", "data/vocab_n1.json"]을 채운다.
+// JLPT 무스비 웹 버전 서비스 워커(2.8.0). tools/build_web.py가 d685dfe4befe와 ["index.html", "manifest.webmanifest", "fonts/fonts.css", "icons/icon-192.png", "icons/icon-512.png", "data/exam.json", "data/expr.json", "data/grammar.json", "data/grammar_basic.json", "data/kanji.json", "data/mock.json", "data/test.json", "data/vocab.json", "data/vocab_basic.json", "data/vocab_n1.json"]을 채운다.
 // - 화면·데이터(shell): 설치할 때 미리 받아 두고, 새 빌드가 올라오면 통째로 바꾼다.
 // - 음성·글꼴(assets): 처음 쓸 때 받아 보관한다. 이름이 내용으로 정해지므로 빌드가 바뀌어도 그대로 쓴다.
-const SHELL = 'musubi-shell-44778a8d3327', ASSETS = 'musubi-assets-v1';
+const SHELL = 'musubi-shell-d685dfe4befe', ASSETS = 'musubi-assets-v1';
 const PRECACHE = ["index.html", "manifest.webmanifest", "fonts/fonts.css", "icons/icon-192.png", "icons/icon-512.png", "data/exam.json", "data/expr.json", "data/grammar.json", "data/grammar_basic.json", "data/kanji.json", "data/mock.json", "data/test.json", "data/vocab.json", "data/vocab_basic.json", "data/vocab_n1.json"];
 
 self.addEventListener('install', event => {
