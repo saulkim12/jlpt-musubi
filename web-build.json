@@ -1,9 +1,10 @@
 {
- "version": "2.9.0",
- "build": "d685dfe4befe",
- "files": 22876,
- "bytes": 776326454,
- "clips": 22838,
+ "version": "2.10.0",
+ "build": "9e9fcdad2b41",
+ "files": 23131,
+ "bytes": 790431241,
+ "clips": 23092,
+ "audioSourceHash": "de573bb1a3c838d591308f6e9fbe1e5ab8772ab7d39f30840650f49cb5363dbb",
  "shell": [
   "index.html",
   "manifest.webmanifest",
@@ -16,11 +17,12 @@
   "data/grammar_basic.json",
   "data/kanji.json",
   "data/mock.json",
+  "data/stories.json",
   "data/test.json",
   "data/vocab.json",
   "data/vocab_basic.json",
   "data/vocab_n1.json"
  ],
  "contactEmail": false,
- "appSha256": "e08c95d965c8da8785ad357d885f83dd29e1acc21d6a8e5625fc26e34aa13f26"
+ "appSha256": "839571050b7530fb730c4da0b77ab3c96eba5d65db42347eee5c989f292ffd81"
 }
