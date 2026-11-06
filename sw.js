@@ -5,7 +5,8 @@
 //   캐시를 지워, 다시 찾는 사람도 새 소리를 듣는다(tools/publish_web.py가 마지막 공개본과 견줘 확인한다).
 //   v2(2.10.0): 2.9.0에서 VOICEVOX로 바꾼 음성이 2.8.0 때 받아 둔 옛 음성에 가려지던 것을 정리한다.
 //   v3(2.10.1): 숫자를 한 덩어리로 다시 읽은 음성 124개(1300円, 15分 등)가 2.10.0 때 받아 둔 음성에 가려지지 않게 한다.
-const SHELL = 'musubi-shell-9e9fcdad2b41', ASSETS = 'musubi-assets-v3';
+//   v4(2.10.2): 후리가나 예문의 숫자·조수사를 한자로 되돌려 다시 읽은 음성 423개(4がつ→4月 등)가 2.10.1 때 받아 둔 음성에 가려지지 않게 한다.
+const SHELL = 'musubi-shell-9e9fcdad2b41', ASSETS = 'musubi-assets-v4';
 const PRECACHE = ["index.html", "manifest.webmanifest", "fonts/fonts.css", "icons/icon-192.png", "icons/icon-512.png", "data/exam.json", "data/expr.json", "data/grammar.json", "data/grammar_basic.json", "data/kanji.json", "data/mock.json", "data/stories.json", "data/test.json", "data/vocab.json", "data/vocab_basic.json", "data/vocab_n1.json"];
 
 self.addEventListener('install', event => {
